@@ -70,6 +70,6 @@ Contributions are welcome! Please submit an issue or pull request with detailed 
 
 
 ## Contact
-For inquiries or collaborations, reach out at (karthikey.yadav03@egmail.com).
+For inquiries or collaborations, reach out at (karthikey.yadav03@gmail.com).
 
 
