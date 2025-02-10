@@ -68,10 +68,8 @@ Example structured data extracted using AI techniques:
 ## Contributing
 Contributions are welcome! Please submit an issue or pull request with detailed explanations of changes.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For inquiries or collaborations, reach out at [your-email@example.com](mailto:your-email@example.com).
+For inquiries or collaborations, reach out at (karthikey.yadav03@egmail.com).
 
 
